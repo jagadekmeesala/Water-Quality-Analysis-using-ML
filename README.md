@@ -26,8 +26,6 @@
 - [Dataset](#📊-dataset)
 - [SMOTE](#🗂️-SMOTE)
 - [Requirements](#💻-requirements)
-- [License](#⚖-license)
-- [Contributors](#👥-contributors)
 
 ## 🚩 Problem Statement
 Safe and readily available water is important for public health, whether it is used for drinking, domestic use, food production or recreational purposes. Better water supplies and sanitation, as well as better management of water resources, can contribute greatly to poverty reduction and economic growth.
