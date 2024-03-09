@@ -1,7 +1,7 @@
 # Water-Quality-Analysis-using-ML
 
 
-<!-- <h1 align="center"> Water Quality Analysis 🚰</h1> -->
+<!-- <h1 align="center"> Water Quality Analysis 🚰</h1> --> 
 
 <p align="center">
 <a>
