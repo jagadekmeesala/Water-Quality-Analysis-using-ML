@@ -17,8 +17,6 @@
   </a>
     <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"
       alt="API stability" />
-    <img src="https://img.shields.io/github/last-commit/siddharth271101/Water-Quality-Analysis"
-      alt="API stability" />
 </div>
 
 ## 🗂️ Table of Contents
